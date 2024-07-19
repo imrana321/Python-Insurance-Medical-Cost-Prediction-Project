@@ -38,3 +38,4 @@
     <p><strong>Charges:</strong> Individual medical costs billed by health insurance.</p>
 </body>
 </html>
+
